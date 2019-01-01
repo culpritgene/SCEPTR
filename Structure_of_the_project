@@ -1,0 +1,9 @@
+1. Neural networks achitectures
+2. Training util functions, class representing training routine customizable
+3. Data holder and data loader classes
+4. Classifiers classes 
+5. Results comparing class (holder of multiple results, visualizing methods)
+6. Kmer based analysis
+7. Alignmnent based analysis
+8. Igraph based analysis
+
